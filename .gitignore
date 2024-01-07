@@ -1,0 +1,4 @@
+# 載せる必要のないファイル・フォルダはgitignoreする
+/.vscode
+/bits
+/a.out
