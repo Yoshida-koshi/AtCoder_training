@@ -1,5 +1,5 @@
 # AtCoder_training
-![AtCoder ProblemsのTraining](https://kenkoooo.com/atcoder/#/training/Boot%20camp%20for%20Beginners/3)を解いています！
+AtCoder ProblemsのTraining<https://kenkoooo.com/atcoder/#/training/Boot%20camp%20for%20Beginners/3>を解いています！
 分からなかった問題の解説を実際に自分で書いてアウトプットしています。だいぶ長いかもしれないですが、ご参考までに。
 
 ## Hard Q1
